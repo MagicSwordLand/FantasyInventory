@@ -1,0 +1,14 @@
+title: "&a 你的RPGINV"
+AllUnique: false
+UniqueTypes:
+  - ARTIFACTS
+slots:
+  1:
+    types:
+      - ARMOR
+    icon:
+      material: gray_stained_glass_pane
+      display: "&cwwww"
+      model: 0
+      lores:
+        - "&7haha"

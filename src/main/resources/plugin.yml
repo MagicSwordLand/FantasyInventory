@@ -1,0 +1,8 @@
+name: FantasyInventory
+version: '${version}'
+main: net.brian.fantasyinventory.FantasyInventory
+api-version: 1.16
+depend: [ MMOItems ,PlayerDataSync]
+softdepend: [ ProtocolLib ]
+commands:
+  finv:
